@@ -24,6 +24,17 @@ This is a simple number guessing game created using HTML, CSS, and JavaScript.
 - CSS
 - JavaScript
 
+<b>game layout designs: before attempt </b>
+
+<img align="left" alt="coding" width="300" padding-top="50px" src="https://github.com/Diganta02/number-guessing-game/blob/main/sm1.png"><br>
+
+
+
+
+<b>after attempt </b><br>
+
+<img align="left" alt="coding" width="380" padding-top="100px" src="https://github.com/Diganta02/number-guessing-game/blob/main/ss.png">
+
 ## Contributing
 
 Contributions are welcome! Feel free to open an issue or submit a pull request.

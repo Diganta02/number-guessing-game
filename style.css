@@ -1,4 +1,4 @@
-@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;500;600;700&display=swap');
+
 *{
     margin: 0;
     padding: 0;
@@ -12,38 +12,32 @@ body {
     margin: auto;
     align-items: center;
     margin-top: 50px;
-    background-image: linear-gradient(rgba(255, 255, 255, 0),rgba(83, 88, 105, 0.219)),url("u13.jpg");
+    background-image: linear-gradient(rgba(0, 0, 0, 0.749),rgba(0, 0, 0, 0.511)),url("u13.jpg");
     background-size: cover; 
     background-position: center;
 }
 h2 {
     margin: 10px 0px;
     text-align: center;
-    text-decoration: underline;
     color: brown;
     font-size: 24px;
 }
-
-li{
-    color: #ffffff;
-}
-
 b{
     color: yellow;
 }
 p{
     color: #ffffff;
+    font-size: 17px;
+    font-weight: 500;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
 }
-
 h2{
     color: #ffffff;
 }
-
 #title{
     color: #ffffff;
 }
-.full{
-    
+.full{  
     height:450px;
     width: 600px;
     margin-left: 17%;
@@ -53,12 +47,9 @@ h2{
     display: flex;
     flex-direction: column;
     margin: 10px 0px;
-    /* border: 1px solid black; */
     padding: 10px 20px;
     background-size: cover; 
     background-position: center;
-    /* border-radius: 25px; */
-    /* padding: 10px; */
     background-color: transparent;
     text-align: center;
     height:110px;
@@ -73,41 +64,30 @@ ul {
     font-weight: bold;
 }
 ul li {
+    color: #ffffff;
     font-size: 14px;
+    font-weight: 400;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
 }
 #guessValue {
-    font-size: 15px;
+    font-size: 12px;
     height: 24px;
     padding: 2px 20px;
     border-radius: 10px;
-    /* margin-left: 148px; */
 }
 #hint{
     margin: 5px 0px;
     margin-left: 14px;
 }
-/* .btn {
-    background-color: black;
-    color: white;
-    font-size: 16px;
-    padding: 2px 8px;
-    margin: 2px 5px;
-} */
-
 #game{
     align-items: center;
     text-align: center;
     margin-left: 20%;
 }
-
-.btn1 {
-    padding-right: 90px;
-}
-
 .btn {
     display: block;
-    margin: auto; /* This will center the button horizontally */
-    margin-top: 20px; /* Adjust this value to control the vertical spacing */
+    margin: auto;
+    margin-top: 20px;
     padding: 5px 11px;
     background-color: #0d0042;
     color: #fff;
@@ -116,10 +96,10 @@ ul li {
     border-radius: 5px;
     cursor: pointer;
 }
-
 .game {
-    text-align: center; /* Center align the content inside the game div */
+    text-align: center; 
 }
 #counter {
     color: rgb(255, 180, 4);
 }
+

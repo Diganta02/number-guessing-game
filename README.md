@@ -33,7 +33,7 @@ This is a simple number guessing game created using HTML, CSS, and JavaScript.
 
 <b>after attempt </b><br>
 
-<img align="left" alt="coding" width="480" padding-top="100px" src="https://github.com/Diganta02/number-guessing-game/blob/main/ss1.png">
+<img align="left" alt="coding" width="540" padding-top="100px" src="https://github.com/Diganta02/number-guessing-game/blob/main/ss1.png">
 
 ## Contributing
 
